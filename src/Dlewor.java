@@ -19,5 +19,7 @@ public class Dlewor {
         System.out.print(ANSI_YELLOW_BACKGROUND + ANSI_BLACK + "World");
         System.out.print(ANSI_WHITE_BACKGROUND + ANSI_BLACK + "!");
         System.out.println(ANSI_RESET);
+
+        System.out.println("Happy");
     }
 }
