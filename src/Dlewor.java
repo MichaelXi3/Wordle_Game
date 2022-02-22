@@ -196,7 +196,7 @@ public class Dlewor {
         System.out.println("Welcome to Dlewor(TM)!");
         System.out.println("Guess a five-letter word!");
         Random ran = new Random();
-        int index = ran.nextInt(wordsRange.size()) - 1;
+        int index = ran.nextInt(wordsRange.size());
         String targetWord = wordsRange.get(index);
         //System.out.println(wordsRange.get(index)); //For testing
 
