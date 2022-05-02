@@ -1,1 +1,1 @@
-# Have fun with the Wordle_Game!
+# Have fun with the Wordle Game! 🤪
